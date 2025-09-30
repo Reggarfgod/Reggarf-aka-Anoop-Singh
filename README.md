@@ -31,4 +31,3 @@ Passionate about building unique mechanics, optimizing performance, and making g
 
 ---
 
-⭐ *If you like my mods or projects, don’t forget to star them — it helps a lot!* ⭐
