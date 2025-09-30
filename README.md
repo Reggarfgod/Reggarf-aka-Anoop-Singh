@@ -18,7 +18,7 @@ Passionate about building unique mechanics, optimizing performance, and making g
 
 ## 🌍 Connect with Me
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/@Reggarff?style=social)](https://www.youtube.com/@Reggarff)  
-[![CurseForge](https://img.shields.io/badge/CurseForge-Mods-orange?logo=curseforge)](https://www.curseforge.com/members/reggarfgod/projects)  
+[![CurseForge](https://img.shields.io/badge/CurseForge-Mods-orange?logo=curseforge)](https://www.curseforge.com/members/reggarf/projects)  
 [![Modrinth](https://img.shields.io/badge/Modrinth-Mods-green?logo=modrinth)](https://modrinth.com/user/Reggarf)  
 [![Discord](https://img.shields.io/badge/Discord-Community-blue?logo=discord)](https://discord.gg/kb6BntpcYq)  
 
