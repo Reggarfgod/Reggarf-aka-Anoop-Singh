@@ -2,7 +2,7 @@
 
 🎮 Minecraft Mod Developer | 📹 Content Creator | ⚡ Tech Enthusiast  
 
-I develop **Minecraft mods** (mainly with the Create mod ecosystem) and stream **Valorant & Minecraft** on YouTube.  
+I develop **Minecraft mods** and stream **Minecraft** on YouTube.  
 Passionate about building unique mechanics, optimizing performance, and making gameplay fun for everyone!  
 
 ---
