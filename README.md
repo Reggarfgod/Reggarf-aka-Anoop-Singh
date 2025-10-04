@@ -1,6 +1,6 @@
 #  Hey, I'm Anoop Singh (Reggarf)
 
-🎮 Minecraft Mod Developer | 📹 Content Creator | ⚡ Tech Enthusiast  
+ Minecraft Mod Developer | Content Creator | Tech Enthusiast  
 
 I develop **Minecraft mods** and stream **Minecraft** on YouTube.  
 Passionate about building unique mechanics, optimizing performance, and making gameplay fun for everyone!  
