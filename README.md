@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Anoop Singh (Reggarf)
+#  Hey, I'm Anoop Singh (Reggarf)
 
 🎮 Minecraft Mod Developer | 📹 Content Creator | ⚡ Tech Enthusiast  
 
@@ -7,8 +7,8 @@ Passionate about building unique mechanics, optimizing performance, and making g
 
 ---
 
-## 🔨 Featured Projects
-### 🛠️ Create Mods
+##  Featured Projects
+###  Create Mods
 - [Create: Better Villager](https://www.curseforge.com/minecraft/mc-mods/create-better-villager) – Adds a host of Create-mod village professions.  
 - [Create: Extra Casing](https://www.curseforge.com/minecraft/mc-mods/create-extra-casing) – Colorful casings to enhance your Create builds.  
 - [Create: Better Motors](https://www.curseforge.com/minecraft/mc-mods/create-better-motors) – Improved Create motors with custom mechanics.  
