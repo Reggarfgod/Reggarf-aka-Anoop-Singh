@@ -9,6 +9,15 @@ I love exploring new ideas, turning wild concepts into working mods, and making 
 
 ---
 
+# Languages & Frameworks
+Java
+Spring Boot
+Kotlin
+HTML/CSS
+JavaScript/TypeScript
+
+---
+
 ##  Featured Projects
 ###  Create Mods
 - [Create: Better Villager](https://www.curseforge.com/minecraft/mc-mods/create-better-villager) – Adds a host of Create-mod village professions.  
