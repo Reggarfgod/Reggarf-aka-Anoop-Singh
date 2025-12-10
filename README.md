@@ -1,4 +1,4 @@
-#   Hey, I’m Anoop Singh (aka Reggarf)
+#   Hey, I’m Reggarf
 
 Minecraft Mod Developer | Content Creator | Tech Enthusiast
 
